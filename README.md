@@ -1,0 +1,1 @@
+Working through The Odin Project to brush up on foundations
